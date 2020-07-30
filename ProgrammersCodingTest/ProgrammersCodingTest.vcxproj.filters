@@ -4,6 +4,9 @@
     <Filter Include="Level 1">
       <UniqueIdentifier>{ad5c5090-b8b7-4283-8392-169aac66a197}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Level 2">
+      <UniqueIdentifier>{d443fdff-e2e3-4a39-97bf-374e38244cbe}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="모의고사.cpp">
@@ -50,6 +53,15 @@
     </ClCompile>
     <ClCompile Include="시저 암호.cpp">
       <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="프린터.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="124 나라의 숫자.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="기능개발.cpp">
+      <Filter>Level 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

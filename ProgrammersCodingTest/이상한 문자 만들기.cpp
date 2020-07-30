@@ -19,9 +19,3 @@ string solution(string s) {
 
 	return s;
 }
-
-int main()
-{
-	solution("tRY   hello   world  ");
-	return 0;
-}

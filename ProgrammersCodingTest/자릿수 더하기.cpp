@@ -5,10 +5,3 @@ int solution(int n) {
 
 	return answer;
 }
-
-int main()
-{
-	solution(100200507);
-
-	return 0;
-}
