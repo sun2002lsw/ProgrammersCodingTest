@@ -21,5 +21,35 @@
     <ClCompile Include="가운데 글자 가져오기.cpp">
       <Filter>Level 1</Filter>
     </ClCompile>
+    <ClCompile Include="문자열 내 마음대로 정렬하기.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="서울에서 김서방 찾기.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="소수 찾기.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="이상한 문자 만들기.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="자릿수 더하기.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="키패드 누르기.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="[1차] 비밀지도.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="실패율.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="[1차] 다트 게임.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="시저 암호.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
