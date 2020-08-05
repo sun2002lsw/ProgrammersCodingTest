@@ -63,5 +63,14 @@
     <ClCompile Include="기능개발.cpp">
       <Filter>Level 2</Filter>
     </ClCompile>
+    <ClCompile Include="스킬트리.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="주식가격.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="다리를 지나는 트럭.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
