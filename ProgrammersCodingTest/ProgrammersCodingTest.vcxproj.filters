@@ -81,5 +81,23 @@
     <ClCompile Include="문자열 압축.cpp">
       <Filter>Level 2</Filter>
     </ClCompile>
+    <ClCompile Include="조이스틱.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="더 맵게.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="큰 수 만들기.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호 변환.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 큰 수.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="소수 찾기..cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
