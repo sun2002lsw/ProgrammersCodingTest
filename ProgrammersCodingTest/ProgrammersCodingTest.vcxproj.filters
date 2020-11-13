@@ -255,5 +255,14 @@
     <ClCompile Include="여행경로.cpp">
       <Filter>Level 3</Filter>
     </ClCompile>
+    <ClCompile Include="완주하지 못한 선수.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="크레인 인형뽑기 게임.cpp">
+      <Filter>Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="[3차] 방금그곡.cpp">
+      <Filter>Level 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
